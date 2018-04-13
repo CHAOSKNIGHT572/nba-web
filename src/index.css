@@ -3,6 +3,7 @@
 @import 'styles/Profile.css';
 @import 'styles/main.css';
 @import 'styles/ShotChart.css';
+@import 'styles/DataViewContainer.css';
 body {
   margin: 0;
   padding: 0;
