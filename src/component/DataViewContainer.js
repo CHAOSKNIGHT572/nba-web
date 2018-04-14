@@ -25,7 +25,7 @@ export class DataViewContainer extends React.Component {
             <div className="data-view">
                 <ShotChart
                     playerId={this.props.playerId}
-                    minCount={this.state.minCount}
+                   npm start minCount={this.state.minCount}
                     chartType={this.state.chartType}
                     displayToolTip={this.state.displayToolTip}
                 />
